@@ -54,3 +54,26 @@ thead{
 .seconda-colonna{
     width: 400px;
 }
+
+.correlati{
+    color: grey;
+}
+
+.img-monitor{
+    width: 350px;
+    height: 250px;
+    background-image: url(img/monitor.jpg);
+    color: white;
+    font-size: 20px;
+    background-size: cover;
+}
+
+.img-graph{
+    width: 350px;
+    height: 250px;
+    background-image: url(img/graph.jpg);
+    color: white;
+    font-size: 20px;
+    background-size: cover;
+}
+
