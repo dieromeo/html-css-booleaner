@@ -8,3 +8,49 @@ header div{
     width: 200px;
 }
 
+h1{
+    font-size: 65px;
+    margin-bottom: 0px;
+}
+
+.autore{
+    color: grey;
+}
+
+.immagini-lee{
+    margin-top: 20px;
+}
+
+#booleaner{
+    color: #20a9e5;
+}
+
+.titolo-foto p{
+    margin: 0%;
+}
+
+.lorem{
+    background-color: yellow;
+}
+
+thead{
+    background-color: #20a9e5;
+    color: white;
+    text-align: left;
+}
+
+.prima-riga{
+    background-color: #b1e5f2;
+}
+
+.terza-riga{
+    background-color: #b1e5f2;
+}
+
+.prima-colonna{
+    width: 400px;
+}
+
+.seconda-colonna{
+    width: 400px;
+}
