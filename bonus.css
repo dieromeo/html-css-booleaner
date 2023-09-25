@@ -1,0 +1,64 @@
+header div {
+    height: 180px;
+    background-color: red;
+    background-image: url(img/pattern.png);
+}
+
+.logo {
+    width: 200px;
+}
+
+main {
+    background-color: rgb(255, 165, 0, 0.4);
+}
+
+h1 {
+    font-size: 65px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.autore {
+    color: grey;
+    text-align: center;
+}
+
+.titolo-foto p {
+    margin: 0px;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    border: 3px;
+    border-style: solid;
+}
+
+.img-monitor {
+    width: 350px;
+    height: 250px;
+    background-image: url(img/monitor.jpg);
+    color: white;
+    font-size: 20px;
+    background-size: cover;
+}
+
+.img-graph {
+    width: 350px;
+    height: 250px;
+    background-image: url(img/graph.jpg);
+    color: white;
+    font-size: 20px;
+    background-size: cover;
+}
+
+table{
+    background-color: orange;
+}
+
+thead{
+    color: wheat;
+    background-color: rgb(255, 0, 0, 0.6);
+}
